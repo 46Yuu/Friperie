@@ -1,4 +1,19 @@
 # friperie
+
+Site de friperie solidaire avec accès client et accès gérant.
+
+# Images
+<img src="MarkdownFiles/image.png" width="80%">
+<img src="MarkdownFiles/image2.png" width="80%">
+<img src="MarkdownFiles/image3.png" width="80%">
+<img src="MarkdownFiles/image4.png" width="80%">
+
+# Auteurs
+
+- Henri
+- Hermann
+
+# Installation
 Pour lancer le projet  il faut
 - Installer d'abord les modules avec les commandes
 
@@ -33,6 +48,10 @@ Pour lancer le projet  il faut
         Cette dernière vous demandera d'entrer le mot de passe voulu  
     - Lancez : \q pour quitter
 - Retournez modifier  PG_PASSWORD= <psql_password> dans votre fichier .env
-## Lancer le script init.sql
-## node main.js pour lancer le serveur sur localhost::8080
+
+- Lancer le script init.sql
+
+- node main.js pour lancer le serveur sur localhost::8080
+
+- Ouvrir un onglet sur localhost::8080 pour l'accès client et localhost::8080/gerant pour l'accès gérant.
 
