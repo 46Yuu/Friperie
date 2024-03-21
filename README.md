@@ -1,4 +1,4 @@
-# friperie
+# Friperie
 
 Site de friperie solidaire avec accès client et accès gérant.
 
